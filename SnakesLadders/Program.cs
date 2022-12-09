@@ -1,4 +1,6 @@
 ﻿// En el programa principal tenemos el loop del juego
+using SnakeLadderGame.Model;
+
 var game = new Play().Start();
 var hayGanador = false;
 while (!hayGanador)

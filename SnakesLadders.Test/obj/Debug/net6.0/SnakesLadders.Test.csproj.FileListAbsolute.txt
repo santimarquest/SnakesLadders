@@ -1,4 +1,9 @@
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.csproj.AssemblyReference.cache
+C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.AssemblyInfoInputs.cache
+C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.AssemblyInfo.cs
+C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.csproj.CoreCompileInputs.cache
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\testhost.dll
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\SnakesLadders.deps.json
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\SnakesLadders.runtimeconfig.json
@@ -92,11 +97,6 @@ C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\SnakesLadders.dll
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\bin\Debug\net6.0\SnakesLadders.pdb
-C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.csproj.AssemblyReference.cache
-C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.AssemblyInfoInputs.cache
-C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.AssemblyInfo.cs
-C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.csproj.CoreCompileInputs.cache
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.csproj.CopyComplete
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\SnakesLadders.Test.dll
 C:\Users\170269\Desktop\Desktop\Santi\SnakesLadders\SnakesLadders.Test\obj\Debug\net6.0\refint\SnakesLadders.Test.dll
