@@ -6,6 +6,7 @@ Es un juego multijugador, que consta de un tablero, un dado y las normas corresp
 Es un proyecto de consola C# Net Core 6.0. Una vez descargado el proyecto, nos situamos en el directorio bin/Debug/net6.0 y
 doble click en el archivo SnakeLadders de tipo aplicacion
 
+![image](https://user-images.githubusercontent.com/9914387/206599335-db042b8a-fd4b-4d73-b96f-eabddfa3a8f9.png)
 
 
 El programa nos pedirá un tamaño del tablero (entre 5 y 100), y un numero total de jugadores (entre 1 y 50)
