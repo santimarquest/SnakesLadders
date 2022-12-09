@@ -25,18 +25,16 @@ Presione Enter para terminar la ejecución
 - Se ha usado un método factory para la creación del tablero de juego
 - Se ha incluido un proyecto de pruebas unitarias con xUnit, esta ha sido una de las prioridades de desarrollo, que todo el código se pueda testear con pruebas unitarias
 
-![image](https://user-images.githubusercontent.com/9914387/206531975-811a55c9-8b6e-4f7f-8f1a-d6bae1bf6403.png)
+![image](https://user-images.githubusercontent.com/9914387/206600728-f7ebc190-0339-46d1-9b77-5f5c972e4c0b.png)
 
 - Para poder ejecutar las pruebas, se tienen que cargar las pruebas en Visual Studio (yo he usado VS2022 Community), y buscar la opción de menú Prueba -> Explorador de Pruebas
 
-![image](https://user-images.githubusercontent.com/9914387/206598217-40ca7cba-f0f7-4846-916e-e96fe84d543b.png)
-
+![image](https://user-images.githubusercontent.com/9914387/206601007-f1525cc4-a673-43a3-be22-a5e51a4e1a7f.png)
 
 - Se ha intentado respetar los principios SOLID, pero sobre todo el de single responsibility, y para ello se han definido todas las clases necesarias 
 para que cada una de ellas solo pueda tener un motivo de cambio
 
-![image](https://user-images.githubusercontent.com/9914387/206536118-2dc6e71d-611b-4a08-821c-c9629222740b.png)
-
+![image](https://user-images.githubusercontent.com/9914387/206601054-67c5d6da-294c-4262-ac47-5bf7ad8d1e94.png)
 
 # Posibles mejoras y forma de continuar esta kata
 - Programación con interfaces, que permitan inyectar las despendencias donde sea necesario. Es un tema muy importante para conseguir código desacoplado, pero para esta kata no se ha incluido este concepto.
