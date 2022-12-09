@@ -1,6 +1,4 @@
-﻿using SnakeLadderGame.Builder;
-using SnakeLadderGame.Model;
-using System;
+﻿using SnakeLadderGame.Model;
 
 namespace SnakeLadderGame
 {
