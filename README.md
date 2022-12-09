@@ -9,7 +9,7 @@ un directorio local
 
 ![image](https://user-images.githubusercontent.com/9914387/206601448-100e2e9c-59ed-48e4-a1f9-2f76c2bf784a.png)
 
-Una vez descargado el proyecto, nos situamos en el directorio bin/Debug/net6.0 y doble click en el archivo SnakeLadders de tipo aplicacion
+Una vez descargado y descomprimido el proyecto, nos situamos en el directorio bin/Debug/net6.0 y doble click en el archivo SnakeLadders de tipo aplicacion
 
 ![image](https://user-images.githubusercontent.com/9914387/206599335-db042b8a-fd4b-4d73-b96f-eabddfa3a8f9.png)
 
