@@ -1,4 +1,4 @@
-﻿namespace SnakeAndLadderGame
+﻿namespace SnakeLadderGame
 {
     public class Cell
     {

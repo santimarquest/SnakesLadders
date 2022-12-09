@@ -1,8 +1,8 @@
-﻿using SnakeAndLadderGame.Builder;
-using SnakeAndLadderGame.Model;
+﻿using SnakeLadderGame.Builder;
+using SnakeLadderGame.Model;
 using System;
 
-namespace SnakeAndLadderGame
+namespace SnakeLadderGame
 {
     public sealed class Game
     {

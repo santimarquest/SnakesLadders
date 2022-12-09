@@ -1,11 +1,11 @@
-﻿using SnakeAndLadderGame.Model;
+﻿using SnakeLadderGame.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SnakeAndLadderGame.Builder
+namespace SnakeLadderGame.Builder
 {
     // El builder es para que en la construcción de los elementos necesarios para el juego, se puedan hacer validaciones,
     // para garantizar que si el builder permite la creación del juego, estamos con un tablero,  un dado, y unos jugadores correctamente creados

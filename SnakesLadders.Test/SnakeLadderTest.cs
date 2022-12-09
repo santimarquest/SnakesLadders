@@ -1,9 +1,10 @@
-using SnakeAndLadderGame.Builder;
-using SnakeAndLadderGame.Model;
+using SnakeLadderGame;
+using SnakeLadderGame.Builder;
+using SnakeLadderGame.Model;
 
-namespace SnakeAndLadderGame.Test
+namespace SnakeLadderGame.Test
 {
-    public class SnakeAndLadderTest
+    public class SnakeLadderTest
     {
         [Fact]
         public void CreateGame_InitialState_ShouldPlaceTokenOnSquare1ForAllPlayers()

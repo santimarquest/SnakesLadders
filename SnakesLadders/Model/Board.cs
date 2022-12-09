@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SnakeAndLadderGame.Model
+namespace SnakeLadderGame.Model
 {
     public class Board
     {
