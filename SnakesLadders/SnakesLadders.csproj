@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\SnakesLadders.deps.json" />
+    <Content Include="bin\Debug\net6.0\SnakesLadders.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\SnakesLadders.dll" />
+    <None Include="bin\Debug\net6.0\SnakesLadders.exe" />
+    <None Include="bin\Debug\net6.0\SnakesLadders.pdb" />
+    <None Include="bin\Debug\net6.0\xunit.abstractions.dll" />
+    <None Include="bin\Debug\net6.0\xunit.assert.dll" />
+    <None Include="bin\Debug\net6.0\xunit.core.dll" />
+  </ItemGroup>
+
 </Project>
