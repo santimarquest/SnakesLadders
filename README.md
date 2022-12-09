@@ -26,6 +26,11 @@ Presione Enter para terminar la ejecución
 
 ![image](https://user-images.githubusercontent.com/9914387/206531975-811a55c9-8b6e-4f7f-8f1a-d6bae1bf6403.png)
 
+- Para poder ejecutar las pruebas, se tienen que cargar las pruebas en Visual Studio (yo he usado VS2022 Community), y buscar la opción de menú Prueba -> Explorador de Pruebas
+
+![image](https://user-images.githubusercontent.com/9914387/206598217-40ca7cba-f0f7-4846-916e-e96fe84d543b.png)
+
+
 - Se ha intentado respetar los principios SOLID, pero sobre todo el de single responsibility, y para ello se han definido todas las clases necesarias 
 para que cada una de ellas solo pueda tener un motivo de cambio
 
