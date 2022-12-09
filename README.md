@@ -4,11 +4,11 @@ Inicio de kata para el juego snakes and ladders C#
 Es un juego multijugador, que consta de un tablero, un dado y las normas correspondientes de como jugar a este juego
 # Para ejecutar
 Es un proyecto de consola C# Net Core 6.0. Una vez descargado el proyecto, nos situamos en el directorio bin/Debug/net6.0 y
-doble click en el archivo SnakeAndLadders de tipo aplicacion
+doble click en el archivo SnakeLadders de tipo aplicacion
 
-![image](https://user-images.githubusercontent.com/9914387/206527056-d80e73ae-3fbe-4e79-bea7-60409c919f9f.png)
 
-El programa nos pedirá un tamño del tablero (entre 5 y 100), y un numero total de jugadores (entre 1 y 50)
+
+El programa nos pedirá un tamaño del tablero (entre 5 y 100), y un numero total de jugadores (entre 1 y 50)
 
 ![image](https://user-images.githubusercontent.com/9914387/206528081-33375c88-d8eb-4667-ae70-82cb2ca6f1e6.png)
 
